@@ -6,7 +6,11 @@ If you want to learn more about Quarkus, please visit its website: https://quark
 
 ## Running the application in dev mode
 
-You can run your application in dev mode that enables live coding using:
+To start the application run the script `run.sh` .
+
+For faster developing the UI, run svelte through vite by running `npm run dev` in directory `/frontend` .
+
+You can also run your application in dev mode that enables live coding using:
 ```shell script
 ./mvnw compile quarkus:dev
 ```
