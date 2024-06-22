@@ -41,3 +41,7 @@ nb-configuration.xml
 
 # Plugin directory
 /.quarkus/cli/plugins/
+
+src/main/resources/META-INF/resources/assets/
+src/main/resources/META-INF/resources/index.html
+src/main/resources/META-INF/resources/logo.png

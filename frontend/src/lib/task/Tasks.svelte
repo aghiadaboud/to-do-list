@@ -123,7 +123,7 @@
 </script>
 
 <div class="container flex flex-col items-center px-6 mx-auto mt-10 text-white">
-    <img src="src/assets/logo.png" alt="logo" class="w-96 h-36"/>
+    <img src="/logo.png" alt="logo" class="w-96 h-36"/>
     <div class="flex flex-row mt-10 md:mt-20 place-self-start">
         <SimpleButton text="Reload Tasks" on:click={handleFindAll}></SimpleButton>
         {#if numTasks === unfilteredTasks.length && numTasks > 0}
