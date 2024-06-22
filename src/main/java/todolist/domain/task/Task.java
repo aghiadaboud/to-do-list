@@ -1,6 +1,6 @@
-package fida.domain.task;
+package todolist.domain.task;
 
-import fida.infrastructure.exception.DomainErrorCode;
+import todolist.infrastructure.exception.DomainErrorCode;
 import lombok.Builder;
 import lombok.Getter;
 

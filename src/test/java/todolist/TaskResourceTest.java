@@ -1,6 +1,6 @@
-package fida;
+package todolist;
 
-import fida.domain.task.TaskStatus;
+import todolist.domain.task.TaskStatus;
 import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.Test;
 

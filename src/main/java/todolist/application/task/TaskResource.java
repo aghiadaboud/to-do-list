@@ -1,12 +1,12 @@
-package fida.application.task;
+package todolist.application.task;
 
-import fida.application.task.dto.TaskDTO;
-import fida.application.task.dto.UpdateTaskDTO;
-import fida.domain.task.Task;
-import fida.domain.task.TaskException;
-import fida.domain.task.TaskService;
-import fida.domain.task.TaskStatus;
-import fida.infrastructure.exception.DomainErrorCode;
+import todolist.application.task.dto.TaskDTO;
+import todolist.application.task.dto.UpdateTaskDTO;
+import todolist.domain.task.Task;
+import todolist.domain.task.TaskException;
+import todolist.domain.task.TaskService;
+import todolist.domain.task.TaskStatus;
+import todolist.infrastructure.exception.DomainErrorCode;
 import jakarta.json.Json;
 import jakarta.json.JsonObject;
 import jakarta.validation.Valid;

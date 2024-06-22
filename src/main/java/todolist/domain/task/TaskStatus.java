@@ -1,4 +1,4 @@
-package fida.domain.task;
+package todolist.domain.task;
 
 public enum TaskStatus {
 

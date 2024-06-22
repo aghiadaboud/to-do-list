@@ -1,6 +1,6 @@
-package fida.domain.task;
+package todolist.domain.task;
 
-import fida.infrastructure.exception.DomainErrorCode;
+import todolist.infrastructure.exception.DomainErrorCode;
 import jakarta.enterprise.context.ApplicationScoped;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

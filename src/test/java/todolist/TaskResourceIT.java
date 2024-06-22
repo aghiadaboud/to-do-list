@@ -1,4 +1,4 @@
-package fida;
+package todolist;
 
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 

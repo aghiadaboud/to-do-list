@@ -1,4 +1,4 @@
-package fida.infrastructure.exception;
+package todolist.infrastructure.exception;
 
 import lombok.Getter;
 

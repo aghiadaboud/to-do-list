@@ -1,8 +1,8 @@
-package fida.application.task.dto;
+package todolist.application.task.dto;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonProperty;
-import fida.domain.task.TaskStatus;
+import todolist.domain.task.TaskStatus;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 
