@@ -13,6 +13,6 @@
 
 <style>
     :global(html) {
-        background-color: #302e2b;
+        background-color: #2f4858;
     }
 </style>
